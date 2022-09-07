@@ -1,14 +1,14 @@
-# fractals-generator
+# Fractals generator
 
 c++ generator of Mandelbrot and Julia set fractals
 
-# controle :
+# Controls :
 
     **zoom** :
 
-        zoom-in : left-click on mouse
+        zoom-in : left-click
 
-        zoom-out : right-click on mouse
+        zoom-out : right-click
 
     **precision**:
 
@@ -46,8 +46,9 @@ c++ generator of Mandelbrot and Julia set fractals
 
 # Informations:
 
-    It runs completely on CPU which main cause latency.
+    It runs completely on CPU which may cause latency.
 
     (First project on c++ and SFML)
 
     Credits : Tom Demagny, Creator of the project.
+    Minor Contributor : Colin PROKOPOWICZ
